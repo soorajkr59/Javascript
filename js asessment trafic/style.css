@@ -1,0 +1,37 @@
+.div2{
+    background-color: black;
+    height: 500px;
+    width: 200px;
+    border-radius: 50px;
+    margin-top: 10px;
+}
+.btn
+{
+    height: 100px;
+    width: 110px;
+    background-color: white;
+    padding: 20px;
+    margin-top: 50px;
+    margin-left: 45px;
+    border-radius: 70px;
+
+}
+.back{
+    background-color: black;
+    height: 300px;
+    width: 20px;
+}
+.div3
+{
+    background-color: black;
+    height: 170px;
+    width: 30px;
+    
+}
+.div4
+{
+    background-color: black;
+    height: 170px;
+    width: 30px;
+    margin-left: 170px;
+}

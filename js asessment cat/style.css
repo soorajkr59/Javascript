@@ -1,0 +1,41 @@
+.back
+{
+    background-color: black;
+    height: 120vh;
+    width: 100vw;
+}
+.img
+{
+    height: 300px;
+    width: 200px;
+}
+.btn{
+height: 150px;
+width: 200px;
+background-color: gray;
+border-radius: 20px;
+}
+.btn1
+{
+    height: 50px;
+    width: 70px;
+    border-radius: 10px;
+    margin-top: 30px;
+
+}
+.swi
+{
+    color: white;
+    font-weight:700;
+}
+.btn2{
+    height: 50px;
+    width: 70px;
+    border-radius: 10px;
+    margin-top: 30px;
+
+}
+
+
+
+
